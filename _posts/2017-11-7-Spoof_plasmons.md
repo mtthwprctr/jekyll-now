@@ -22,6 +22,6 @@ Brief notes on spoof/designer plasmons.
 * Since the properties of the bound modes are controlled by geometry, this gives the ability to design spoof surface plasmon modes are almost any frequency.
 
 #### References:
-[Mimicking Surface Plasmons with Structured Surfaces][http://science.sciencemag.org/content/305/5685/847]
+[Mimicking Surface Plasmons with Structured Surfaces](http://science.sciencemag.org/content/305/5685/847])
 
-[Surfaces with holes in them: new plasmonic metamaterials][http://iopscience.iop.org/article/10.1088/1464-4258/7/2/013]
+[Surfaces with holes in them: new plasmonic metamaterials](http://iopscience.iop.org/article/10.1088/1464-4258/7/2/013)
