@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-PhD student at Imperial College London. Working on topological phases in electromagnetic and elastic metamaterials.
+PhD student in the Experimental Solid State (EXSS) Group at [Imperial College London](https://www.imperial.ac.uk/).
+
+Working on topological phases in electromagnetic and elastic metamaterials.
