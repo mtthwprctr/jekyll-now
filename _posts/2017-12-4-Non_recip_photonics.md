@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: Non-reciprocal photonics based on time modulation
+title: Review Non-reciprocal photonics based on time modulation
 ---
 Brief notes on a Nature Photonics review article, "Non-reciprocal photonics based on time modulation" by Sounas and Alu.
 
