@@ -29,6 +29,5 @@ Brief notes on a Nature Photonics review article, "Non-reciprocal photonics base
 ### Future avenues and questions
 * How to introduce reciprocity to a plasmonic system?
 
-
 #### References:
 [Non-reciprocal photonics based on time modulation](https://doi.org/10.1038/s41566-017-0051-x)
