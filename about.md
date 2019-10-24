@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-PhD student in the Experimental Solid State (EXSS) Group at [Imperial College London](https://www.imperial.ac.uk/).
+PhD student investigating topological phases in plasmonics, with a focus on theory and simulation (in Python).
 
-Working on topological phases in electromagnetic and elastic metamaterials.
+* [google scholar](https://scholar.google.com/citations?user=pEDDYQQAAAAJ)
+* [twitter](http://twitter.com/mtthwprctr)
+* [linkedin](linkedin.com/in/mtthwprctr/)
+
