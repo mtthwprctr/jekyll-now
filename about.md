@@ -8,5 +8,5 @@ PhD student investigating topological phases in plasmonics, with a focus on theo
 
 * [google scholar](https://scholar.google.com/citations?user=pEDDYQQAAAAJ)
 * [twitter](http://twitter.com/mtthwprctr)
-* [linkedin](linkedin.com/in/mtthwprctr/)
+* [linkedin](http:linkedin.com/in/mtthwprctr/)
 
